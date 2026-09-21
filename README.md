@@ -1,7 +1,7 @@
 <div align="center">
 
-# Cześć, jestem Hubert! 👋
-### **Technik Programista** 🌐
+# Hi, I'm Hubert! 👋
+### **IT Technician / Programmer** 🌐
 
 [![Instagram](https://img.shields.io/badge/Instagram-h.pobudkiewicz-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/h.pobudkiewicz)
 [![Codale Web](https://img.shields.io/badge/Codale%2_Web-codale__web-7289DA?style=flat&logo=instagram&logoColor=white)](https://instagram.com/codale_web)
@@ -10,27 +10,27 @@
 
 ---
 
-### 💻 **Mój Tech Stack**
+### 💻 **My Tech Stack**
 
-| Języki / Narzędzia | Status / Poziom |
+| Language / Tool | Proficiency Level |
 | :--- | :--- |
-| **HTML / CSS & SCSS** | Frontend |
-| **JavaScript** | Interaktywne aplikacje |
-| **Python** | Skrypty i logika |
-| **C++** | Programowanie systemowe / Algorytmy |
-| **SQL** | Bazy danych |
+| **HTML & SCSS** | Advanced |
+| **JavaScript** | Advanced |
+| **C++** | Intermediate |
+| **Python** | Beginner |
+| **SQL** | Intermediate |
 
 ---
 
-### 🚀 **Nad czym obecnie pracuję?**
+### 🚀 **What I'm currently working on**
 
-Rozwijam własną markę wspólnie z przyjacielem:
-* 👾🤖 **[Codale Web Development](https://instagram.com/codale_web)** – sprawdź nas na Instagramie (`@codale_web`)!
+Developing my brand together with a friend:
+* 👾🤖 **[Codale Web Development](https://instagram.com/codale_web)** – check us out on Instagram (`@codale_web`)!
 
 ---
 
-### 🎯 **O mnie**
-* 💡 Pasjonat programowania i ciągłego samorozwoju.
-* 📬 Masz ochotę porozmawiać lub podjąć współpracę? Napisz do mnie na Instagramie: **[@h.pobudkiewicz](https://instagram.com/h.pobudkiewicz)**.
+### 🎯 **About me**
+* 💡 Passionate about programming and continuous self-improvement.
+* 📬 If you are interested in talking or collaborating, please contact me on Instagram: **[@h.pobudkiewicz](https://instagram.com/h.pobudkiewicz)**.
 
 > *"Sky is the limit."* 🚀
