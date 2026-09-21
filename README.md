@@ -4,7 +4,7 @@
 ### **IT Technician / Programmer** 🌐
 
 [![Instagram](https://img.shields.io/badge/Instagram-h.pobudkiewicz-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/h.pobudkiewicz)
-[![Codale Web](https://img.shields.io/badge/Codale%2_Web-codale__web-7289DA?style=flat&logo=instagram&logoColor=white)](https://instagram.com/codale_web)
+[![Codale Web]([https://img.shields.io/badge/Codale%2_Web-codale__web-7289DA?style=flat&logo=instagram&logoColor=white](https://raw.githubusercontent.com/HubcioBubcio123/HubcioBubcio123/refs/heads/main/codale-favicon-64.png)](https://instagram.com/codale_web)
 
 </div>
 
