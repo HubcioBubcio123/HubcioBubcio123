@@ -3,8 +3,16 @@
 # Hi, I'm Hubert! 👋
 ### **IT Technician / Programmer** 🌐
 
-[![Instagram](https://img.shields.io/badge/Instagram-h.pobudkiewicz-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/h.pobudkiewicz)
-[![Codale Web](https://img.shields.io/badge/Codale%2_Web-codale__web-7289DA?style=flat&logo=instagram&logoColor=white)](https://instagram.com/codale_web)
+<p align="center">
+  <a href="https://instagram.com/h.pobudkiewicz">
+    <img src="https://img.shields.io/badge/Instagram-h.pobudkiewicz-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/codale_web">
+    <img src="https://raw.githubusercontent.com/HubcioBubcio123/HubcioBubcio123/refs/heads/main/codale-favicon-64.png" width="20" height="20" style="vertical-align: middle;" alt="Codale Logo">
+    <strong>Codale Web</strong>
+  </a>
+</p>
 
 </div>
 
