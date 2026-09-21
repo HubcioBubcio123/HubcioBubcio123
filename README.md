@@ -1,7 +1,7 @@
 Hubert Pobudkiewicz.🔴👐
 Technik-Programista🌐
 My tech stack:🧑‍💻
--Html
+-Html 
 -SCSS
 -JavaScript
 -Python
