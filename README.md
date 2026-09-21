@@ -1,16 +1,17 @@
-## Hi there 👋
+Hubert Pobudkiewicz.🔴👐
+Technik-Programista🌐
+My tech stack:🧑‍💻
+-Html
+-SCSS
+-JavaScript
+-Python
+-C++
+-SQL
+Currently working on developing my brand with a Friend:
+<--- 👾🤖Codale Web Developmend🤖👾--->
+(codale_web on instagram)
 
-<!--
-**HubcioBubcio123/HubcioBubcio123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about programming and self-improvement. ↗️🎯
+If you are interested in talking with me please contact me on IG : h.pobudkiewicz 📨
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sky is the limit.
