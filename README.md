@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HubcioBubcio123/HubcioBubcio123/refs/heads/main/codale-favicon-64.png" alt="Codale Logo" width="120" height="120" style="border-radius: 50%;">
-
 # Hi, I'm Hubert! 👋
 ### **IT Technician / Programmer** 🌐
 
@@ -27,7 +25,7 @@
 ### 🚀 **What I'm currently working on**
 
 Developing my brand together with a friend:
-* 👾🤖 **[Codale Web Development](https://instagram.com/codale_web)** – check us out on Instagram (`@codale_web`)!
+* <img src="https://raw.githubusercontent.com/HubcioBubcio123/HubcioBubcio123/refs/heads/main/codale-favicon-64.png" width="20" height="20" style="vertical-align: middle;" /> 👾🤖 **[Codale Web Development](https://instagram.com/codale_web)** – check us out on Instagram (`@codale_web`)!
 
 ---
 
